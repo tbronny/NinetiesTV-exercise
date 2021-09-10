@@ -24,14 +24,14 @@ namespace NinetiesTV
             // Print("Shows Sorted By Duration", ShowsByDuration(shows));
             // Print("Comedies Sorted By Rating", ComediesByRating(shows));
             // Print("More Than One Genre, Sorted by Start", WithMultipleGenresByStartYear(shows));
-            Print("Most Episodes", MostEpisodes(shows));
-            Print("Ended after 2000", EndedFirstAfterTheMillennium(shows));
-            Print("Best Drama", BestDrama(shows));
-            Print("All But Best Drama", AllButBestDrama(shows));
-            Print("Good Crime Shows", GoodCrimeShows(shows));
-            Print("Long-running, Top-rated", FirstLongRunningTopRated(shows));
-            Print("Most Words in Title", WordieastName(shows));
-            Print("All Names", AllNamesWithCommas(shows));
+            // Print("Most Episodes", MostEpisodes(shows));
+            // Print("Ended after 2000", EndedFirstAfterTheMillennium(shows));
+            // Print("Best Drama", BestDrama(shows));
+            // Print("All But Best Drama", AllButBestDrama(shows));
+            // Print("Good Crime Shows", GoodCrimeShows(shows));
+            // Print("Long-running, Top-rated", FirstLongRunningTopRated(shows));
+            // Print("Most Words in Title", WordieastName(shows));
+            // Print("All Names", AllNamesWithCommas(shows));
             Print("All Names with And", AllNamesWithCommasPlsAnd(shows));
         }
 
